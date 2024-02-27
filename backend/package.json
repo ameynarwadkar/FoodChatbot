@@ -1,0 +1,10 @@
+{
+    "name": "my-backend",
+    "version": "1.0.0",
+    "description": "A simple Node.js backend server",
+    "main": "index.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
